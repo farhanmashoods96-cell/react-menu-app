@@ -101,7 +101,7 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_LINK]
+    git clone https://github.com/muhammedshazinsameer/react-menu-app.git
     cd restaurant-menu-app 
     ```
 
