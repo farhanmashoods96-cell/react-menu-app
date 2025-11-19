@@ -19,7 +19,7 @@ This project is a single-page application built using React and Vite to display 
 
 | Resource | Link |
 | :--- | :--- |
-| **GitHub Repository** |  |
+| **GitHub Repository** | https://github.com/muhammedshazinsameer/react-menu-app.git |
 | **Live Deployment** | https://react-menu-app-flame.vercel.app/ |
 
 ---
