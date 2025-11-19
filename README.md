@@ -19,7 +19,7 @@ This project is a single-page application built using React and Vite to display 
 
 | Resource | Link |
 | :--- | :--- |
-| **GitHub Repository** | https://github.com/muhammedshazinsameer/react-menu-app.git |
+| **GitHub Repository** | https://github.com/farhanmashoods96-cell/react-menu-app.git |
 | **Live Deployment** | https://react-menu-app-flame.vercel.app/ |
 
 ---
@@ -101,7 +101,7 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/muhammedshazinsameer/react-menu-app.git
+    git clone https://github.com/farhanmashoods96-cell/react-menu-app.git
     cd restaurant-menu-app 
     ```
 
