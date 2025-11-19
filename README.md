@@ -19,8 +19,8 @@ This project is a single-page application built using React and Vite to display 
 
 | Resource | Link |
 | :--- | :--- |
-| **GitHub Repository** | [YOUR_GITHUB_REPOSITORY_LINK] |
-| **Live Deployment** | [YOUR_VERCEL_OR_NETLIFY_LINK] |
+| **GitHub Repository** |  |
+| **Live Deployment** | https://react-menu-app-flame.vercel.app/ |
 
 ---
 
